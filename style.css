@@ -1,0 +1,284 @@
+body{
+    width: 1080px;
+    margin: auto;
+    background-image: url("fd_ciel.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#introbody{
+    width: 1080px;
+    background-image: url("fd_logo2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#entre{
+    width: 1080px;
+    float: start;
+    padding: 700px;
+}
+
+
+
+#titre {
+    font-family: "Algerian";
+    width: 1080px;
+    float: top;
+    margin: auto;
+    background-color: dodgerblue;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    border-radius: 10px 10px 0 0;
+}
+
+#menu {
+    font-family: "Trebuchet MS", serif;
+    float: top;
+    text-align: center;
+    width: 1080px;
+    height: 25px;
+    font-size: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    margin: auto auto 20px;
+    background-color: dodgerblue;
+    border-radius: 0 0 10px 10px;
+}
+
+.element_menu {
+    border: 0 solid darkblue;
+    padding-top: -4px;
+    background-color: darkorchid;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px 5px 5px 5px;
+    font-family: "Trebuchet MS", serif;
+}
+
+.element_menu a {
+    text-decoration: none;
+    color: blue;
+}
+
+.element_menu a:hover {
+    border: 1px solid darkblue;
+    padding-top: -4px;
+    background-color: purple;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+p{
+    font-family: "Trebuchet MS", serif;
+    width: 1080px;
+    float: top;
+    background-color: dodgerblue;
+    padding: 15px 40px;
+    margin: 50px auto auto;
+    text-align: left;
+    font-size: 22px;
+    color: blue;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid darkblue;
+}
+
+h2{
+    font-family: "Arial";
+    background-color: dodgerblue;
+    margin: 220px auto 50px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: right;
+    font-size: 25px;
+    font-weight: 600;
+    color: blue;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid darkblue;
+}
+
+#logo{
+    height: 400px;
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px 5px 5px 5px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#ciel{
+    height: 400px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    padding: 5px 5px 5px 5px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#imperator_fd{
+    height: 400px;
+    float: left;
+    padding: 5px 5px 5px 5px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#pgm_fd{
+    height: 400px;
+    float: right;
+    padding: 5px 5px 5px 5px;
+    margin-top: 30px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#logonly{
+    height: 400px;
+    float: left;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    padding: 5px 5px 5px 5px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#pochette{
+    height: 400px;
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 260px;
+    padding: 5px 5px 5px 5px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#imperator{
+    height: 450px;
+    float: left;
+    padding: 5px 5px 5px 5px;
+    margin-top: 30px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#dikz{
+    height: 400px;
+    float: right;
+    padding: 5px 5px 5px 5px;
+    margin-top: 200px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#pgm{
+    height: 400px;
+    float: left;
+    padding: 5px 5px 5px 5px;
+    margin-top: 50px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#nikel{
+    height: 400px;
+    float: right;
+    padding: 5px 5px 5px 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.fdlogo_legende{
+    float: right;
+    margin-top: -240px;
+    margin-left: 15px;
+    margin-right: -15px;
+}
+
+.ciel_legende{
+    float: left;
+    margin-top: 20px;
+    margin-left: 300px;
+    text-align: center;
+}
+
+.imperator_fdlegende{
+    float: right;
+    margin-top: 175px;
+    margin-right: -15px;
+}
+
+.pgm_fdlegende{
+    float: left;
+    margin-top: 205px;
+}
+
+.logo_legende{
+    float: right;
+    margin-right: 250px;
+}
+
+.pochette_legende{
+    float: left;
+    margin-top: 20px;
+    margin-left: 300px;
+    text-align: center;
+}
+
+.lien_discord{
+    text-decoration: none;
+    color: darkviolet;
+}
+
+.imperator_legende{
+    float: right;
+    margin-top: 220px;
+    margin-right: 70px;
+}
+
+.dikz_legende{
+    float: left;
+    margin-top: 200px;
+    margin-right: 15px;
+}
+
+.pgm_legende{
+    float: right;
+    margin-top: 220px;
+    margin-right: 100px;
+}
+
+.nikel_legende{
+    float: left;
+    margin-top: 200px;
+    margin-right: 15px;
+}
